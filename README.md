@@ -68,4 +68,4 @@
 
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=misaka10843&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misaka10843&&hide=tsql) |
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=misaka10843&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misaka10843&&hide=tsql) |
