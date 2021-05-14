@@ -4,6 +4,10 @@
 
 ![](https://count.getloli.com/get/@misaka10843.github.readme)
 
+### 原神统计\(^o^)/~
+
+![genshin](https://genshin-card.getloli.com/detail/11/257511100.png)
+
 ### 👨‍💻 我的开源项目
 
 |  项目名字 | 介绍 | star数                                                       |
@@ -63,8 +67,7 @@
 <a target="_blank" url="https://www.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-以前的二次宅快乐网-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
 <a target="_blank" url="https://github.com/"><img src="https://img.shields.io/badge/GitHub-程序员交友平台-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff"/></a>
 </p>
-### 原神统计
-![genshin](https://genshin-card.getloli.com/detail/11/257511100.png)
+
 
 ### 🥳 个人GitHub统计
 
