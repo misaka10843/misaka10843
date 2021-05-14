@@ -6,7 +6,7 @@
 
 ### 原神统计\(^o^)/~
 
-![genshin](https://genshin-card.getloli.com/detail/11/257511100.png)
+![genshin](https://genshin-card.getloli.com/detail/10/257511100.png)
 
 ### 👨‍💻 我的开源项目
 
