@@ -4,7 +4,7 @@
 
 ![](https://count.getloli.com/get/@misaka10843.github.readme)
 
-### 原神统计\(^o^)/~
+### 🎮原神统计\(^o^)/~
 
 ![genshin](https://genshin-card.getloli.com/detail/10/257511100.png)
 
