@@ -64,7 +64,7 @@
 <a target="_blank" url="https://github.com/"><img src="https://img.shields.io/badge/GitHub-程序员交友平台-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff"/></a>
 </p>
 ### 原神统计
-![](https://genshin-card.getloli.com/detail/11/257511100.png)
+![genshin](https://genshin-card.getloli.com/detail/11/257511100.png)
 
 ### 🥳 个人GitHub统计
 
