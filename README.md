@@ -15,6 +15,7 @@
 | arknights-h5 | [明日方舟H5页面](https://github.com/misaka10843/arknights-h5) | <img src="https://img.shields.io/github/stars/misaka10843/arknights-h5?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | a-404-page | [一个404页面](https://github.com/misaka10843/a-404-page) | <img src="https://img.shields.io/github/stars/misaka10843/a-404-page?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | TapTapCommentCrawler | [ taptap爬虫 ](https://github.com/misaka10843/TapTapCommentCrawler) | <img src="https://img.shields.io/github/stars/misaka10843/TapTapCommentCrawler?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+| genshin-server-switching | [ 原神大陆地区快速换服工具 ](https://github.com/misaka10843/genshin-server-switching) | <img src="https://img.shields.io/github/stars/misaka10843/Tgenshin-server-switching?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 
 
 ### 🧐本人使用过的语言
