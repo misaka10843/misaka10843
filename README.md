@@ -52,7 +52,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Chrome-浏览器-4285F4?style=flat-square&logo=Google%20Chrome&labelColor=ffffff&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/Steam-悠闲娱乐-000000?style=flat-square&logo=Steam&labelColor=ffffff&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Steam-悠闲娱乐(G胖快点打折！)-000000?style=flat-square&logo=Steam&labelColor=ffffff&logoColor=000000"/>
 </p>
 
 <p align="center">
