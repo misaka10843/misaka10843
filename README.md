@@ -68,6 +68,8 @@
 <p align="center">
 <a target="_blank" url="https://www.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-以前的二次宅快乐网-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
 <a target="_blank" url="https://github.com/"><img src="https://img.shields.io/badge/GitHub-程序员交友平台-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff"/></a>
+<a target="_blank" url="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-DD狂喜网-c00?style=for-the-badge&logo=youtube&logoColor=c00&labelColor=ffffff"/></a>
+<a target="_blank" url="https://www.google.co.jp/"><img src="https://img.shields.io/badge/google-google一下，你就知道-0093ff?style=for-the-badge&logo=google&labelColor=ffffff"/></a>
 </p>
 
 
