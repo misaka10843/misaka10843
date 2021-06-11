@@ -6,7 +6,7 @@
 
 ### 🎮原神统计\(^o^)/~
 
-![genshin](http://121.5.227.13:3000/detail/rand/257511100.png)
+![genshin](http://genshin-card.getloli.com/detail/rand/257511100.png)
 
 ### 👨‍💻 我的开源项目
 
@@ -17,6 +17,8 @@
 | TapTapCommentCrawler | [ taptap爬虫 ](https://github.com/misaka10843/TapTapCommentCrawler) | <img src="https://img.shields.io/github/stars/misaka10843/TapTapCommentCrawler?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | genshin-server-switching | [ 原神大陆地区快速换服工具 ](https://github.com/misaka10843/genshin-server-switching) | <img src="https://img.shields.io/github/stars/misaka10843/genshin-server-switching?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | bilibili-live-urlget | [ bilibili直播流获取/下载链接工具 ](https://github.com/misaka10843/bilibili-live-urlget) | <img src="https://img.shields.io/github/stars/misaka10843/bilibili-live-urlget?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+| bilibili-live-urlget | [ OPQBot原神微博获取插件 ](https://github.com/misaka10843/genshin-weibo-plugin) | <img src="https://img.shields.io/github/stars/misaka10843/genshin-weibo-plugin?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+| bilibili-live-urlget | [ OPQBot原神微博获取插件（RSS版） ](https://github.com/misaka10843/genshin-weibo-plugin-RSS) | <img src="https://img.shields.io/github/stars/misaka10843/genshin-weibo-plugin-RSS?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 
 
 ### 🧐本人使用过的语言
