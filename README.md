@@ -1,8 +1,17 @@
 # 关于misaka10843 👋
 
 ### 😆 主页浏览量
+<p>
+	<img src="https://count.getloli.com/get/@misaka10843.github.readme"/>
+	<a href="">
+		<img src="" align="right"/>
+	</a>
+</p>
 
-![](https://count.getloli.com/get/@misaka10843.github.readme)
+
+### bilibili
+
+<iframe src="https://misaka10843.github.io/misaka10843/bili.html"/>
 
 ### 🎮原神统计\(^o^)/~
 
@@ -31,8 +40,20 @@
 	<img src="https://img.shields.io/badge/C/C++-11-659ad2?style=flat-square&logo=C%2B%2B&logoColor=659ad2"/>
 	<img src="https://img.shields.io/badge/C%23-4.0-2c006c?style=flat-square&logo=c%20Sharp&logoColor=2c006c"/>
 	<img src="https://img.shields.io/badge/Lua-5.0-000080?style=flat-square&logo=Lua&logoColor=000080"/>
-    <img src="https://img.shields.io/badge/Shell-1.0-3e484a?style=flat-square&logo=GNU%20Bash&logoColor=ffffff"/>
+    	<img src="https://img.shields.io/badge/Shell-1.0-3e484a?style=flat-square&logo=GNU%20Bash&logoColor=ffffff"/>
 	
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" />
+	<img src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+	<img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue-dot-js&logoColor=ffffff" />
+	<img src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=ffffff" />
+	<img src="https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff" />
+	<img src="https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white" />
+	<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" />
+	<img src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white" />
 </p>
 
 
@@ -47,6 +68,8 @@
 <img src="https://img.shields.io/badge/IOS--0?style=social&logo=IOS&logoColor=black"/>
 
 </p>
+
+
 
 ### 🔧常用的工具或软件
 
@@ -65,6 +88,8 @@
 <img src="https://img.shields.io/badge/Photoshop-P图工具-31A8FF?style=flat-square&logo=Adobe%20Photoshop&labelColor=ffffff&logoColor=31A8FF"/>
 <img src="https://img.shields.io/badge/AE-后期制作-9999FF?style=flat-square&logo=Adobe%20After%20Effects&labelColor=ffffff&logoColor=9999FF"/>
 </p>
+
+
 
 
 ###  🔗常逛的网站
