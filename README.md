@@ -11,7 +11,7 @@
 
 ### bilibili
 
-![bilibili](./img/bili.ong)
+![bilibili](https://misaka10843.github.io/misaka10843/img/bili.ong)
 
 ### 🎮原神统计\(^o^)/~
 
