@@ -11,7 +11,9 @@
 
 ### bilibili
 
-![bilibili](https://misaka10843.github.io/misaka10843/img/bili.png)
+<a href="https://space.bilibili.com/384576146">
+	<img stlye="" src="https://misaka10843.github.io/misaka10843/img/bili.png"/>
+</a>
 
 ### 🎮原神统计\(^o^)/~
 
