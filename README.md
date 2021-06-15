@@ -11,7 +11,7 @@
 
 ### bilibili
 
-<iframe src="https://misaka10843.github.io/misaka10843/bili.html"/>
+![bilibili](./img/bili.ong)
 
 ### 🎮原神统计\(^o^)/~
 
