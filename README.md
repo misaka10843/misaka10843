@@ -77,7 +77,7 @@
 ### 🔧常用的工具或软件
 
 <p align="center">
-<img src="https://img.shields.io/badge/VS-软件开发-9999FF?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=9999FF"/>
+<img src="https://img.shields.io/badge/VS-软件开发-AC58FA?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=AC58FA"/>
 <img src="https://img.shields.io/badge/VsCode-网站开发-007ACC?style=flat-square&logo=Visual%20Studio&labelColor=ffffff&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/MySQL-结构型数据库-4479A1?style=flat-square&logo=MySQL&labelColor=ffffff&logoColor=4479A1"/>
 </p>
@@ -100,7 +100,7 @@
 
 <p align="center">
 <a target="_blank" url="https://www.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-以前的二次宅快乐网-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
-<a target="_blank" url="https://www.bilibili.com/"><img src="https://img.shields.io/badge/NicoNico-追番专用网-000000?style=for-the-badge&logo=niconico&labelColor=ffffff"/></a>
+<a target="_blank" url="https://www.bilibili.com/"><img src="https://img.shields.io/badge/NicoNico-追番专用网-A4A4A4?style=for-the-badge&logo=niconico&labelColor=ffffff&logoColor=A4A4A4"/></a>
 <a target="_blank" url="https://github.com/"><img src="https://img.shields.io/badge/GitHub-程序员交友平台-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff"/></a>
 <a target="_blank" url="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-DD狂喜网-c00?style=for-the-badge&logo=youtube&logoColor=c00&labelColor=ffffff"/></a>
 </p>
