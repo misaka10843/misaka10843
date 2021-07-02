@@ -77,7 +77,8 @@
 ### 🔧常用的工具或软件
 
 <p align="center">
-<img src="https://img.shields.io/badge/VsCode-软件开发-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/VS-软件开发-9999FF?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=9999FF"/>
+<img src="https://img.shields.io/badge/VsCode-网站开发-007ACC?style=flat-square&logo=Visual%20Studio&labelColor=ffffff&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/MySQL-结构型数据库-4479A1?style=flat-square&logo=MySQL&labelColor=ffffff&logoColor=4479A1"/>
 </p>
 
