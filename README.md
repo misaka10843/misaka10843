@@ -105,7 +105,7 @@
 <a target="_blank" url="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-DD狂喜网-c00?style=for-the-badge&logo=youtube&logoColor=c00&labelColor=ffffff"/></a>
 </p>
 <p align="center">
-<a target="_blank" url="https://www.google.co.jp/"><img src="https://img.shields.io/badge/google-google一下，你就知道-0093ff?style=for-the-badge&logo=google&labelColor=ffffff"/>
+<a target="_blank" url="https://www.google.co.jp/"><img src="https://img.shields.io/badge/google-google一下，你就知道-4285F4?style=for-the-badge&logo=google&labelColor=ffffff"/>
 <a target="_blank" url="https://cloud.tencent.com/"><img src="https://img.shields.io/badge/腾讯云-把安全中心功能免费了吧-0093ff?style=for-the-badge&logo=google-cloud&labelColor=ffffff"/>
 	</p>
 
