@@ -19,6 +19,10 @@
 
 ![genshin](http://genshin-card.getloli.com/detail/rand/257511100.png)
 
+### 💕PCR
+
+![pcr](https://i.loli.net/2021/07/06/9DHKYov1U6hTPSz.png)
+
 ### 👨‍💻 我的开源项目
 
 |  项目名字 | 介绍 | star数                                                       |
