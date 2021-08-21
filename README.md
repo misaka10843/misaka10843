@@ -35,7 +35,7 @@
 | genshin-weibo-plugin | [ OPQBot原神微博获取插件 ](https://github.com/misaka10843/genshin-weibo-plugin) | <img src="https://img.shields.io/github/stars/misaka10843/genshin-weibo-plugin?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | genshin-weibo-plugin-RSS | [ OPQBot原神微博获取插件（RSS版） ](https://github.com/misaka10843/genshin-weibo-plugin-RSS) | <img src="https://img.shields.io/github/stars/misaka10843/genshin-weibo-plugin-RSS?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | manga-website | [ 一个自主研发的一个漫画网站（正在缓慢制作中qwq） ](https://github.com/misaka10843/manga-website) | <img src="https://img.shields.io/github/stars/misaka10843/manga-website?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
-| manga-website | [ 面包房少女更换激活服务器程序 ](https://github.com/misaka10843/bakerygirl-Public-activation-server-program) | <img src="https://img.shields.io/github/stars/misaka10843/bakerygirl-Public-activation-server-program?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+| bakerygirl-Public-activation-server-program | [ 面包房少女更换激活服务器程序 ](https://github.com/misaka10843/bakerygirl-Public-activation-server-program) | <img src="https://img.shields.io/github/stars/misaka10843/bakerygirl-Public-activation-server-program?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 
 
 ### 🧐本人使用过的语言
