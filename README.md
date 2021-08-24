@@ -9,7 +9,7 @@
 </p>
 
 
-### bilibili
+### 📺bilibili
 
 <a href="https://space.bilibili.com/384576146">
 	<img stlye="" src="https://misaka10843.github.io/misaka10843/img/bili.png"/>
@@ -112,8 +112,19 @@
 <p align="center">
 <a target="_blank" url="https://www.google.co.jp/"><img src="https://img.shields.io/badge/google-google一下，你就知道-4285F4?style=for-the-badge&logo=google&labelColor=ffffff"/>
 <a target="_blank" url="https://cloud.tencent.com/"><img src="https://img.shields.io/badge/腾讯云-把安全中心功能免费了吧-0093ff?style=for-the-badge&logo=google-cloud&labelColor=ffffff"/>
-	</p>
+</p>
 
+
+### ℹ️ 联系我
+
+<p align="center">
+  <a href="mailto:kaosumisaka10843@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:misaka10843@outlook.jp" target="_blank"><img src="https://img.shields.io/badge/Outlook-1582D7.svg?&style=flat-square&logo=Microsoft%20Outlook&logoColor=white" alt="Outlook"></a>
+  <a href="https://message.bilibili.com/#/whisper/unfollow/mid384576146" target="_blank"><img src="https://img.shields.io/badge/bilibili-33AFED.svg?&style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"></a>
+  <a href="https://twitter.com/SigureMo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=3594254539&site=qq" target="_blank"><img src="https://img.shields.io/badge/QQ-EB1923.svg?&style=flat-square&logo=Tencent%20QQ&logoColor=white" alt="QQ"></a>
+  <a href="https://steamcommunity.com/profiles/76561199072068301/" target="_blank"><img src="https://img.shields.io/badge/steam-000000.svg?&style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
+ </p>
 
 
 ### 🥳 个人GitHub统计
