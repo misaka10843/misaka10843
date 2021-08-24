@@ -122,8 +122,8 @@
 <br>
   <a href="mailto:kaosumisaka10843@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://message.bilibili.com/#/whisper/unfollow/mid384576146" target="_blank"><img src="https://img.shields.io/badge/bilibili-33AFED.svg?&style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"></a>
-  <a href="https://twitter.com/SigureMo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <br>
+  <a href="https://twitter.com/SigureMo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="http://wpa.qq.com/msgrd?v=3&uin=3594254539&site=qq" target="_blank"><img src="https://img.shields.io/badge/QQ-EB1923.svg?&style=flat-square&logo=Tencent%20QQ&logoColor=white" alt="QQ"></a>
   <a href="https://steamcommunity.com/profiles/76561199072068301/" target="_blank"><img src="https://img.shields.io/badge/steam-000000.svg?&style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
  </p>
