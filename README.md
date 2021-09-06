@@ -126,6 +126,9 @@
   <a href="https://twitter.com/SigureMo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="http://wpa.qq.com/msgrd?v=3&uin=3594254539&site=qq" target="_blank"><img src="https://img.shields.io/badge/QQ-EB1923.svg?&style=flat-square&logo=Tencent%20QQ&logoColor=white" alt="QQ"></a>
   <a href="https://steamcommunity.com/profiles/76561199072068301/" target="_blank"><img src="https://img.shields.io/badge/steam-000000.svg?&style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
+<br>
+  <a href="null" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10.svg?&style=flat-square&logo=steam&logoColor=white" alt="Xbox"></a>
+    <a href="mailto:sakurafubiki@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-1582D7.svg?&style=flat-square&logo=Microsoft%20Outlook&logoColor=white" alt="Outlook"></a>
  </p>
 
 
