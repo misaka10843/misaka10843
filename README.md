@@ -41,8 +41,8 @@
 ### 🧐本人使用过的语言
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Python-3.7-326c9c?style=flat-square&logo=Python&logoColor=326c9c"/>
-	<img src="https://img.shields.io/badge/PHP-7.2-777bb3?style=flat-square&logo=PHP&logoColor=777bb3"/>
+	<img src="https://img.shields.io/badge/Python-3.7+-326c9c?style=flat-square&logo=Python&logoColor=326c9c"/>
+	<img src="https://img.shields.io/badge/PHP-7.2+-777bb3?style=flat-square&logo=PHP&logoColor=777bb3"/>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/C/C++-11-659ad2?style=flat-square&logo=C%2B%2B&logoColor=659ad2"/>
@@ -55,8 +55,8 @@
 	<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" />
 	<img src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-	<img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue-dot-js&logoColor=ffffff" />
-	<img src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=ffffff" />
+	<img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=ffffff" />
+	<img src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff" />
 	<img src="https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff" />
 	<img src="https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white" />
 	<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -88,6 +88,7 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Windows Terminal-npm run!-4D4D4D?style=flat-square&logo=Windows Terminal&labelColor=ffffff&logoColor=4D4D4D"/>
 <img src="https://img.shields.io/badge/Chrome-浏览器-4285F4?style=flat-square&logo=Google%20Chrome&labelColor=ffffff&logoColor=4285F4"/>
 <img src="https://img.shields.io/badge/Steam-悠闲娱乐(G胖快点打折！)-000000?style=flat-square&logo=Steam&labelColor=ffffff&logoColor=000000"/>
 </p>
