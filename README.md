@@ -84,7 +84,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/VS-软件开发-AC58FA?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=AC58FA"/>
 <img src="https://img.shields.io/badge/VsCode-网站开发-007ACC?style=flat-square&logo=Visual%20Studio&labelColor=ffffff&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/MySQL-结构型数据库-4479A1?style=flat-square&logo=MySQL&labelColor=ffffff&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/MySQL-小海豚数据库-4479A1?style=flat-square&logo=MySQL&labelColor=ffffff&logoColor=4479A1"/>
 </p>
 
 <p align="center">
