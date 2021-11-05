@@ -143,5 +143,5 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=misaka10843&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misaka10843&&hide=tsql) |
 |                        主要维护的项目                        |
-| ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=misaka10843&repo=manga-website) |
+| ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=misaka10843&repo=manga-website)![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=offline-colle&repo=kancolle-offline) |
 	
