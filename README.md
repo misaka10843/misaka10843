@@ -76,7 +76,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Android--0?style=social&logo=Android&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/Windows7/10/11--0?style=social&logo=Windows&logoColor=0078D6"/>
+<img src="https://img.shields.io/badge/Windows XP/7/10/11--0?style=social&logo=Windows&logoColor=0078D6"/>
 <img src="https://img.shields.io/badge/Centos7--0?style=social&logo=Centos&logoColor=262577"/>
 <img src="https://img.shields.io/badge/Ubuntu20.04--0?style=social&logo=Ubuntu&logoColor=E95420"/>
 <img src="https://img.shields.io/badge/IOS--0?style=social&logo=IOS&logoColor=black"/>
@@ -88,8 +88,8 @@
 ### 🔧常用的工具或软件
 
 <p align="center">
-<img src="https://img.shields.io/badge/VS-软件开发-AC58FA?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=AC58FA"/>
-<img src="https://img.shields.io/badge/VsCode-网站开发-007ACC?style=flat-square&logo=Visual%20Studio&labelColor=ffffff&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/VS-C/C++/Basic开发-AC58FA?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=AC58FA"/>
+<img src="https://img.shields.io/badge/VsCode-网站/程序/unity开发-007ACC?style=flat-square&logo=Visual%20Studio&labelColor=ffffff&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/MySQL-小海豚数据库-4479A1?style=flat-square&logo=MySQL&labelColor=ffffff&logoColor=4479A1"/>
 </p>
 
