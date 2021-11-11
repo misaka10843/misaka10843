@@ -41,6 +41,7 @@
 | bakerygirl-Public-activation-server-program | [ 面包房少女更换激活服务器程序 ](https://github.com/misaka10843/bakerygirl-Public-activation-server-program) | <img src="https://img.shields.io/github/stars/misaka10843/bakerygirl-Public-activation-server-program?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | copymanga-download | [ copymanga(拷贝漫画)批量下载工具 ](https://github.com/misaka10843/copymanga-download) | <img src="https://img.shields.io/github/stars/misaka10843/copymanga-download?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | bili-manga-download | [ bilibili漫画批量下载工具 ](https://github.com/misaka10843/bili-manga-download) | <img src="https://img.shields.io/github/stars/misaka10843/bili-manga-download?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+| MPS-anime-API | [ 喵帕斯动画开源API ](https://github.com/misaka10843/MPS-anime-API) | <img src="https://img.shields.io/github/stars/misaka10843/MPS-anime-API?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 
 
 ### 🧐本人使用过的语言
