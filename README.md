@@ -24,7 +24,10 @@
 ![pcr](https://i.loli.net/2021/07/06/9DHKYov1U6hTPSz.png)
 
 ### 📑团队维护项目
-![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=offline-colle&repo=kancolle-offline)
+
+<a href="https://github.com/offline-colle/kancolle-offline">
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=offline-colle&repo=kancolle-offline"/>
+</a>
 
 ### 👨‍💻 我的开源项目
 
