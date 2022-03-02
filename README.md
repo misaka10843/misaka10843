@@ -80,6 +80,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Android--0?style=social&logo=Android&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/Windows XP/7/10/11--0?style=social&logo=Windows&logoColor=0078D6"/>
+<img src="https://img.shields.io/badge/Manjaro--0?style=social&logo=Manjaro&logoColor=007947"/>
 <img src="https://img.shields.io/badge/Centos7--0?style=social&logo=Centos&logoColor=262577"/>
 <img src="https://img.shields.io/badge/Ubuntu20.04--0?style=social&logo=Ubuntu&logoColor=E95420"/>
 <img src="https://img.shields.io/badge/IOS--0?style=social&logo=IOS&logoColor=black"/>
