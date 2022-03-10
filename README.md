@@ -139,7 +139,7 @@
   <a href="https://steamcommunity.com/profiles/76561199072068301/" target="_blank"><img src="https://img.shields.io/badge/steam-000000.svg?&style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
 <br>
   <a href="null" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10.svg?&style=flat-square&logo=steam&logoColor=white" alt="Xbox"></a>
-    <a href="mailto:sakurafubiki@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-1582D7.svg?&style=flat-square&logo=Microsoft%20Outlook&logoColor=white" alt="Outlook"></a>
+    <a href="https://www.youtube.com/channel/UCBexSpEFy5i5_TGfNrUm_0w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <br>
 	    <a href="sakurafubiki" target="_blank"><img src="https://img.shields.io/badge/Minecraft-62B47A.svg?&style=flat-square&logo=Minecraft&logoColor=white" alt="Minecraft"></a>
  </p>
