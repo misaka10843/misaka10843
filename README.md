@@ -1,5 +1,9 @@
 # 关于misaka10843 👋
 
+### ‼️注意！
+
+如果您的issue已经过了几天还没有被我受理，还请您发送邮件到misaka10843@outlook.jp来通知我，十分感谢！
+
 ### 😆 主页浏览量
 <p>
 	<img src="https://count.getloli.com/get/@misaka10843.github.readme"/>
