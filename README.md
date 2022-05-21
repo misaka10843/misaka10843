@@ -33,7 +33,7 @@
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=offline-colle&repo=kancolle-offline"/>
 </a>
 	<a href="https://github.com/sakura-society/houbun-fantasia" align="right">
-		<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sakura-society&repo=houbun-fantasia" />
+		<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sakura-society&repo=houbun-fantasia" align="right"/>
 	</a>
 
 ### 👨‍💻 我的开源项目
