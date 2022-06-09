@@ -29,12 +29,18 @@
 
 ### 📑团队维护项目
 
-<a href="https://github.com/offline-colle/kancolle-offline">
+<table>
+<tr>
+  <td><a href="https://github.com/offline-colle/kancolle-offline">
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=offline-colle&repo=kancolle-offline"/>
-</a>
-	<a href="https://github.com/sakura-society/houbun-fantasia" align="right">
-		<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sakura-society&repo=houbun-fantasia" align="right"/>
-	</a>
+</a></td>
+  <td><a href="https://github.com/sakura-society/houbun-fantasia">
+		<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sakura-society&repo=houbun-fantasia"/>
+	</a></td>
+</tr>
+</table>
+
+	
 
 ### 👨‍💻 我的开源项目
 
