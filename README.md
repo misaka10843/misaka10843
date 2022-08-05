@@ -50,9 +50,16 @@ PS:日本語から中国語への翻訳は基本的にできますが、
 	<img stlye="" src="https://misaka10843.github.io/misaka10843/img/bili.png"/>
 </a>
 
-### 🎮原神统计\(^o^)/~
+### 🎮原神统计&OSU\(^o^)/~
 
-![genshin](http://genshin-card.getloli.com/detail/rand/257511100.png)
+<p>
+	<img src="http://genshin-card.getloli.com/detail/rand/257511100.png"/>
+	<a href="https://osu.ppy.sh/users/22462150">
+		<img src="https://osusig.lolicon.app/sig.php?colour=hexee3333&uname=misaka10843&pp=2&countryrank&flagshadow&xpbar&xpbarhex" align="right"/>
+	</a>
+</p>
+<br>
+<br>
 
 ### 💕PCR
 
