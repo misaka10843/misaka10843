@@ -69,8 +69,8 @@ PS:日本語から中国語への翻訳は基本的にできますが、
 
 <table>
 <tr>
-  <td><a href="https://github.com/offline-colle/kancolle-offline">
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=offline-colle&repo=kancolle-offline"/>
+  <td><a href="https://github.com/kancolle-ohuraiN-project/kancolle-ohuraiN">
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=kancolle-ohuraiN-project&repo=kancolle-ohuraiN"/>
 </a></td>
   <td><a href="https://github.com/sakura-society/houbun-fantasia">
 		<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sakura-society&repo=houbun-fantasia"/>
@@ -206,7 +206,7 @@ PS:日本語から中国語への翻訳は基本的にできますが、
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=misaka10843&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misaka10843&&hide=tsql) |
 |                        主要维护的项目                        |
-| ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=misaka10843&repo=manga-website)![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=offline-colle&repo=kancolle-offline) |
+| ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=misaka10843&repo=manga-website)![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=kancolle-ohuraiN-project&repo=kancolle-ohuraiN) |
 |                          GitHub今年统计                          |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misaka10843&theme=vue)|
 	
