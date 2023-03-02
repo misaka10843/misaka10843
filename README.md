@@ -50,21 +50,6 @@ PS:日本語から中国語への翻訳は基本的にできますが、
 	<img stlye="" src="https://misaka10843.github.io/misaka10843/img/bili.png"/>
 </a>
 
-### 🎮原神统计&OSU\(^o^)/~
-
-<p>
-	<img src="http://genshin-card.getloli.com/detail/rand/257511100.png"/>
-	<a href="https://osu.ppy.sh/users/22462150">
-		<img src="https://osusig.lolicon.app/sig.php?colour=hexee3333&uname=misaka10843&pp=2&countryrank&flagshadow&xpbar&xpbarhex" align="right"/>
-	</a>
-</p>
-<br>
-<br>
-
-### 💕PCR
-
-![pcr](https://i.loli.net/2021/07/06/9DHKYov1U6hTPSz.png)
-
 ### 📑团队维护项目
 
 <table>
@@ -72,7 +57,7 @@ PS:日本語から中国語への翻訳は基本的にできますが、
   <td><a href="https://github.com/kancolle-ohuraiN-project/kancolle-ohuraiN">
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=kancolle-ohuraiN-project&repo=kancolle-ohuraiN"/>
 </a></td>
-  <td><a href="https://github.com/sakura-society/houbun-fantasia">
+  <td><a href="https://gitlab.com/hbfpt">
 		<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sakura-society&repo=houbun-fantasia"/>
 	</a></td>
 </tr>
@@ -80,22 +65,18 @@ PS:日本語から中国語への翻訳は基本的にできますが、
 
 	
 
-### 👨‍💻 我的开源项目
+### 👨‍💻 我的一些开源项目
 
 |  项目名字 | 介绍 | star数                                                       |
 |  :----:  | :----:  |  ------  |
-| arknights-h5 | [明日方舟H5页面](https://github.com/misaka10843/arknights-h5) | <img src="https://img.shields.io/github/stars/misaka10843/arknights-h5?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
-| a-404-page | [一个404页面](https://github.com/misaka10843/a-404-page) | <img src="https://img.shields.io/github/stars/misaka10843/a-404-page?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+| MikanToAria2Modify | [ 自动追番下载器 ](https://github.com/misaka10843/MikanToAria2Modify) | <img src="https://img.shields.io/github/stars/misaka10843/MikanToAria2Modify?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+| ComicFuz-Down | [ comicFuz下载器 ](https://github.com/misaka10843/ComicFuz-Down) | <img src="https://img.shields.io/github/stars/misaka10843/ComicFuz-Down?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+| KurumiBot | [ 胡桃QQ机器人 ](https://github.com/misaka10843/KurumiBot) | <img src="https://img.shields.io/github/stars/misaka10843/KurumiBot?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | TapTapCommentCrawler | [ taptap爬虫 ](https://github.com/misaka10843/TapTapCommentCrawler) | <img src="https://img.shields.io/github/stars/misaka10843/TapTapCommentCrawler?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
-| genshin-server-switching | [ 原神大陆地区快速换服工具 ](https://github.com/misaka10843/genshin-server-switching) | <img src="https://img.shields.io/github/stars/misaka10843/genshin-server-switching?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | bilibili-live-urlget | [ bilibili直播流获取/下载链接工具 ](https://github.com/misaka10843/bilibili-live-urlget) | <img src="https://img.shields.io/github/stars/misaka10843/bilibili-live-urlget?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
-| genshin-weibo-plugin | [ OPQBot原神微博获取插件 ](https://github.com/misaka10843/genshin-weibo-plugin) | <img src="https://img.shields.io/github/stars/misaka10843/genshin-weibo-plugin?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
-| genshin-weibo-plugin-RSS | [ OPQBot原神微博获取插件（RSS版） ](https://github.com/misaka10843/genshin-weibo-plugin-RSS) | <img src="https://img.shields.io/github/stars/misaka10843/genshin-weibo-plugin-RSS?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | manga-website | [ 一个自主研发的一个漫画网站（正在缓慢制作中qwq） ](https://github.com/misaka10843/manga-website) | <img src="https://img.shields.io/github/stars/misaka10843/manga-website?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
-| bakerygirl-Public-activation-server-program | [ 面包房少女更换激活服务器程序 ](https://github.com/misaka10843/bakerygirl-Public-activation-server-program) | <img src="https://img.shields.io/github/stars/misaka10843/bakerygirl-Public-activation-server-program?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | copymanga-download | [ copymanga(拷贝漫画)批量下载工具 ](https://github.com/misaka10843/copymanga-download) | <img src="https://img.shields.io/github/stars/misaka10843/copymanga-download?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | bili-manga-download | [ bilibili漫画批量下载工具 ](https://github.com/misaka10843/bili-manga-download) | <img src="https://img.shields.io/github/stars/misaka10843/bili-manga-download?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
-| MPS-anime-API | [ 喵帕斯动画开源API ](https://github.com/misaka10843/MPS-anime-API) | <img src="https://img.shields.io/github/stars/misaka10843/MPS-anime-API?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 
 
 ### 🧐本人使用过的语言
@@ -206,7 +187,8 @@ PS:日本語から中国語への翻訳は基本的にできますが、
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=misaka10843&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misaka10843&&hide=tsql) |
 |                        主要维护的项目                        |
-| ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=misaka10843&repo=manga-website)![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=kancolle-ohuraiN-project&repo=kancolle-ohuraiN) |
+| ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sakura-society&repo=
+houbun-fantasia) |
 |                          GitHub今年统计                          |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misaka10843&theme=vue)|
 	
