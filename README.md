@@ -187,8 +187,7 @@ PS:日本語から中国語への翻訳は基本的にできますが、
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=misaka10843&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misaka10843&&hide=tsql) |
 |                        主要维护的项目                        |
-| ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sakura-society&repo=
-houbun-fantasia) |
+| ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sakura-society&repo=houbun-fantasia) |
 |                          GitHub今年统计                          |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misaka10843&theme=vue)|
 	
