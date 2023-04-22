@@ -62,7 +62,7 @@ PS:日本語から中国語への翻訳は基本的にできますが、
 	</a></td>
 </tr>
 </table>
-<a href="">
+<a href="https://wakatime.com/@misaka10843">
 		<img src="https://wakatime.com/badge/user/24769a3b-1126-47ea-8f75-2283dcd93a89.svg?style=for-the-badge" align="right"/>
 	</a>
 	
