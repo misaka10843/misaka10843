@@ -71,7 +71,7 @@ PS:日本語から中国語への翻訳は基本的にできますが、
 
 |  项目名字 | 介绍 | star数                                                       |
 |  :----:  | :----:  |  ------  |
-| MikanToAria2Modify | [ 自动追番下载器 ](https://github.com/misaka10843/MikanToAria2Modify) | <img src="https://img.shields.io/github/stars/misaka10843/MikanToAria2Modify?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+| Mikan-Downloader | [ 自动追番下载器 ](https://github.com/misaka10843/Mikan-Downloader) | <img src="https://img.shields.io/github/stars/misaka10843/Mikan-Downloader?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | ComicFuz-Downloader | [ comicFuz下载器 ](https://github.com/misaka10843/ComicFuz-Downloader) | <img src="https://img.shields.io/github/stars/misaka10843/ComicFuz-Downloader?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | KurumiBot | [ 胡桃QQ机器人 ](https://github.com/misaka10843/KurumiBot) | <img src="https://img.shields.io/github/stars/misaka10843/KurumiBot?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | TapTapCommentCrawler | [ taptap爬虫 ](https://github.com/misaka10843/TapTapCommentCrawler) | <img src="https://img.shields.io/github/stars/misaka10843/TapTapCommentCrawler?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
