@@ -43,6 +43,12 @@ PS:日本語から中国語への翻訳は基本的にできますが、
 	</a>
 </p>
 
+### 🎮Check out this Minecraft server!
+
+<a href="https://www.gensokyoreimagined.net/">
+	<img stlye="" src="https://github.com/misaka10843/misaka10843/assets/69132853/b10a0a74-b4c5-4375-ba32-eb8b4d38d159"/>
+</a>
+
 
 ### 📺bilibili
 
