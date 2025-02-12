@@ -2,7 +2,7 @@
 
 ### ‼️注意！
 
-如果您的issue已经过了几天还没有被我受理，还请您发送邮件到misaka10843@outlook.jp来通知我，十分感谢！
+如果您的issue已经过了几天还没有被我受理，还请您发送邮件到misaka10843@outlook.jp来通知我，十分感谢！(虽然邮件也基本上是随缘看就对了x)
 
 #### To native English speakers or language partners:
 
