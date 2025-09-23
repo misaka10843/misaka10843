@@ -55,3 +55,5 @@ PS:日本語から中国語への翻訳は基本的にできますが、
 <a href="https://space.bilibili.com/384576146">
 	<img stlye="" src="https://misaka10843.github.io/misaka10843/img/bili.png"/>
 </a>
+
+<img stlye="" src="https://waka.sakurakoi.top/api/activity/chart/misaka10843.svg"/>
