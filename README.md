@@ -33,7 +33,7 @@ I am still honing my English skills. To ensure clarity, I use translation tools 
 *A Plugin Library to add support for Arknights: Endfield into Collapse Launcher*
 [**Visit Repository**](https://github.com/misaka10843/Hi3Helper.Plugin.Endfield)
 
-<a href="[https://www.gensokyoreimagined.net/](https://github.com/misaka10843/Hi3Helper.Plugin.Endfield)">
+<a href="https://github.com/misaka10843/Hi3Helper.Plugin.Endfield">
 	<img width="80%" alt="Plugin Preview" src="https://github.com/user-attachments/assets/f3f572c0-bfb7-4436-b8e7-47765f42c052"/>
 </a>
 
