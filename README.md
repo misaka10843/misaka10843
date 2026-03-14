@@ -1,59 +1,68 @@
-# 关于misaka10843 👋
+# Hi, I'm misaka10843 👋
 
-### ‼️注意！
+### 🛠 Support & Contact
+If your **Issue** has been pending for more than a few days, please feel free to give me a nudge via email! 
+- 📧 **Email**: [misaka10843@outlook.jp](mailto:misaka10843@outlook.jp)
+*(Note: I check my inbox periodically, so I'll get back to you as soon as I can!)*
 
-如果您的issue已经过了几天还没有被我受理，还请您发送邮件到misaka10843@outlook.jp来通知我，十分感谢！(虽然邮件也基本上是随缘看就对了x)
+---
 
-#### To native English speakers or language partners:
+### 🌐 Languages & Communication
 
-because I did not learn a lot of English, 
+#### **English**
+I am still honing my English skills. To ensure clarity, I use translation tools for complex technical discussions. I can understand English well, but please bear with any minor grammatical quirks in my replies!
+> **PS:** I use translation software to cross-reference and "touch up" my responses to ensure accuracy. Thanks for your patience!
 
-so I may use some translation software to translate from Chinese to English, 
+#### **日本語**
+日本語は現在勉強中ですが、まだ完璧ではありません。正確な意思疎通のために翻訳ツールを併用することがありますので、文法の間違いなどがあればご容赦ください。
+> **PS:** 日本語から中国語への翻訳・理解は概ね問題ありませんが、自然な日常会話はまだ練習中です。翻訳ソフトで正確性を確認しながら対応させていただきます。
 
-the grammar may be wrong, please understand!
-```
-PS:English to Chinese translation is basically possible, 
-but since I don't live in an English environment, 
-I don't know the daily language, 
-so I will use translation software to ensure accuracy before touching up, 
-so please understand
-```
+---
 
-#### 日本語を母語とする方、または日本語を話す方：
+### 🎮 Project Spotlight
 
-日本語をあまり勉強していないため（勉強中）、
-
-翻訳ソフトを使って中国語から日本語に翻訳することがあり、
-
-文法が間違っている可能性がありますので、ご了承ください！
-```
-PS:日本語から中国語への翻訳は基本的にできますが、
-日本の環境で生活していないため、
-日常会話はわかりませんので、
-翻訳ソフトで正確性を確認し、
-タッチアップしていきますので、
-ご了承ください
-```
-
-### 😆 主页浏览量
-<p>
-	<img src="https://count.getloli.com/get/@misaka10843.github.readme"/>
-	<a href="">
-		<img src="https://i.loli.net/2021/06/24/Pp59k4csujxZoJR.png" align="right"/>
-	</a>
-</p>
-
-### 🎮Check out this Minecraft server!
+#### **Gensokyo Reimagined (Minecraft Server)**
+*An ambitious Minecraft MMORPG project set in the world of Touhou Project.*
+[**Visit Website**](https://www.gensokyoreimagined.net/)
 
 <a href="https://www.gensokyoreimagined.net/">
-	<img stlye="" src="https://github.com/misaka10843/misaka10843/assets/69132853/b10a0a74-b4c5-4375-ba32-eb8b4d38d159"/>
+	<img width="100%" src="https://github.com/misaka10843/misaka10843/assets/69132853/b10a0a74-b4c5-4375-ba32-eb8b4d38d159" alt="Gensokyo Reimagined Banner"/>
 </a>
 
+#### **Hi3Helper.Plugin.Endfield**
+*A Plugin Library to add support for Arknights: Endfield into Collapse Launcher*
+[**Visit Repository**](https://github.com/misaka10843/Hi3Helper.Plugin.Endfield)
 
-### 📺bilibili
-
-<a href="https://space.bilibili.com/384576146">
-	<img stlye="" src="https://misaka10843.github.io/misaka10843/img/bili.png"/>
+<a href="[https://www.gensokyoreimagined.net/](https://github.com/misaka10843/Hi3Helper.Plugin.Endfield)">
+	<img width="80%" alt="Plugin Preview" src="https://github.com/user-attachments/assets/f3f572c0-bfb7-4436-b8e7-47765f42c052"/>
 </a>
 
-<img stlye="" src="https://waka.sakurakoi.top/api/activity/chart/misaka10843.svg?v=1"/>
+---
+
+### 📱 Connectivity
+<p align="center">
+<a href="https://space.bilibili.com/384576146" target="_blank">
+    <img src="https://img.shields.io/badge/Bilibili-Space-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili">
+</a>
+</p>
+
+---
+
+### 📉 GitHub Statistics
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=misaka10843&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=misaka10843&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</p>
+
+---
+
+### 😆 Profile Views
+<p>
+
+<img src="https://count.getloli.com/get/@misaka10843.github.readme"/>
+
+<img src="https://i.loli.net/2021/06/24/Pp59k4csujxZoJR.png" align="right"/>
+
+</a>
+
+</p>
