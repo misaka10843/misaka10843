@@ -3,7 +3,7 @@
 ### 🛠 Support & Contact
 If your **Issue** has been pending for more than a few days, please feel free to give me a nudge via email! 
 - 📧 **Email**: [misaka10843@outlook.jp](mailto:misaka10843@outlook.jp)
-*(Note: I check my inbox periodically, so I'll get back to you as soon as I can!)*
+*(Note: I check my inbox periodically, so I'll get back to you as soon as I can! pls dont send spam mails and meaningless cooperation emails)*
 
 ---
 
